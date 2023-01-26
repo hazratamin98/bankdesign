@@ -18,7 +18,7 @@ const Testimonials = () => (
           Everything you need to accept card payments and grow your business
           anywhere on the planet.
         </p>
-      </div>
+      </div> 
     </div>
 
     <div className="flex  sm:justify-start justify-center w-full feedback-container relative z-[1]">
